@@ -14,3 +14,5 @@ Aqui está um print de como ficou o site:
 
 ![image](https://github.com/matheusplombon/alurabooks/assets/174143978/bf2ecd59-2939-473e-9135-fc50ed9264a9)
 
+## Link do Projeto:
+- [alurabooks-lemon-theta.vercel.app](https://alurabooks-lemon-theta.vercel.app)
